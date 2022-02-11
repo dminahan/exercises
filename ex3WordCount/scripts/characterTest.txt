@@ -1,4 +1,0 @@
-Test ; one 2 three " four ###  five.
-Testing   test 1 2    3
-
-" Test done   "
